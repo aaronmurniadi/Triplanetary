@@ -39,7 +39,7 @@ zone is to be rayed.”
 detection,” the second officer argued. “I wonder if there isn’t
 something in those wild rumors we’ve been hearing lately?”
 
-\input{images/eest001i}
+\input{eest001i}
 
 “Bah! Of course not!” snorted the captain. “Pirates in ships faster than
 light---fifth order rays---nullification of gravity---mass without
